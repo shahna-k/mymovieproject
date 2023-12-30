@@ -1,0 +1,9 @@
+body
+{
+background-color:wheat;
+color:purple;
+}
+.navbar-light .navbar-nav .nav-link,.navbar-light .navbar-brand {
+   color:purple;
+   font-weight:bold;
+}
